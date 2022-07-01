@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DEEPANSHU PANWAR
 - 👀 I’m mechanical student but passionate about computer science
-- 🌱 I’m currently learning DSA in java language
+- 🌱 CODING ENTHUSIAST 
 - 📫 How to reach me ...
 
 
